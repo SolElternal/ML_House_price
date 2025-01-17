@@ -20,4 +20,4 @@ A simple Streamlit app template for you to modify!
 #Overview:
 <img src=".github/Screenshot 2025-01-17 193149.png" alt="ตัวอย่างรูปภาพ" width="1000"/>
 
-<img src=".github/Screenshot 2025-01-17 193149.png" alt="ตัวอย่างรูปภาพ" width="1000"/>
+<img src=".github/Screenshot 2025-01-17 193240.png" alt="ตัวอย่างรูปภาพ" width="1000"/>
